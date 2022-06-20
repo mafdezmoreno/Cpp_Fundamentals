@@ -1,0 +1,3 @@
+g++-11 -std=c++17 -o 10_MoveConstructor_MoveAssignmentOperator 10_MoveConstructor_MoveAssignmentOperator.cpp
+./10_MoveConstructor_MoveAssignmentOperator
+rm 10_MoveConstructor_MoveAssignmentOperator
